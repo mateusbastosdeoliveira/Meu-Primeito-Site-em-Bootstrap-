@@ -1,0 +1,4 @@
+1- Node Js
+2- Criar pasta e instalar express (npm install esxpress-generator, npm i)
+
+3- express nomedoprojeto --ejs (adquirindo o MVC)

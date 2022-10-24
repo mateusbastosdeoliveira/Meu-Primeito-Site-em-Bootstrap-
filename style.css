@@ -1,0 +1,91 @@
+body{
+    background-color: black;
+}
+.container-fluid{
+    background-color: black;
+  
+   
+}
+
+#titulo{
+color: white;
+text-align: center;
+text-shadow: 2px 2px black;
+
+
+}
+#conhecimento{
+text-shadow: 2px 2px black;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: white;
+text-align: center;
+}
+
+#ferramenta{
+text-shadow: 2px 2px black;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: white;
+text-align: center;
+}
+
+li{
+color: white;
+text-align: center;
+}
+
+#front{
+text-shadow: 2px 2px black;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-align: center;
+color: white;
+}
+
+#back{
+text-shadow: 2px 2px black;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-align: center;
+color: white;
+}
+
+#banco{
+text-shadow: 2px 2px black;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-align: center;
+color: white;
+}
+
+ul{
+text-align: left;
+list-style: none;
+}
+#experiencia{
+color: white;
+text-align: center;
+}
+
+p{
+text-align: justify;
+color: white;
+}
+div {
+    padding: 0.9px;
+}
+
+img {
+    height: 160px;
+    width: 160px;
+    border-radius: 200px;
+}
+
+#meu-nome {
+    text-align: center;
+    color:white;
+    vertical-align: auto;
+}
+#certificados{
+        text-shadow: 2px 2px black;
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        text-align: center;
+        color: white;
+       }
+        
